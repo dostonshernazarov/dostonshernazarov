@@ -1,1 +1,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dostonshernazarov&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dostonshernazarov&theme=chartreuse_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dostonshernazarov&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dostonshernazarov&theme=chartreuse_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dostonshernazarov&theme=chartreuse_dark&utcOffset=8) 
