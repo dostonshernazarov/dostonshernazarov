@@ -33,6 +33,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ps" height="38" alt="adobephotoshop logo"  />
 </div>
+<hr>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dostonshernazarov&theme=cobalt2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dostonshernazarov&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dostonshernazarov&theme=cobalt2)
