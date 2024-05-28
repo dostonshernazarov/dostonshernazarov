@@ -19,13 +19,13 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cs" height="38" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="csharp logo"  />
   <img width="5" />
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="38" alt="codeigniter logo"  />
   <img width="5" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="38" alt="laravel logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=golang" height="38" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="38" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
   <img width="5" />
