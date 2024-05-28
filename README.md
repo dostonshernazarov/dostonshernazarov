@@ -11,11 +11,11 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=golang" height="38" alt="golang logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="docker logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="38" alt="pytohn logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="pytohn logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgres logo"  />
   <img width="5" />
