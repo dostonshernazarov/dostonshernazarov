@@ -9,13 +9,13 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=python" height="38" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=golang" height="38" alt="php logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="38" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="bootstrap logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="mysql logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
   <img width="5" />
