@@ -37,7 +37,6 @@
   <img width="5" />
 </div>
 <hr>
-<h3>.</h3>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dostonshernazarov&theme=cobalt2)
