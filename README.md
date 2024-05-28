@@ -27,7 +27,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=redis" height="38" alt="adobepremierepro logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="38" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=grpc" height="38" alt="adobephotoshop logo"  />
 </div>
 <hr>
 
