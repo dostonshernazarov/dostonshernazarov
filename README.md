@@ -34,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="38" alt="tensorflow logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="38" alt="pytorch logo"  />
+  <img width="5" />
 </div>
 <hr>
 
