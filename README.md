@@ -15,9 +15,9 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="mysql logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="python logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="csharp logo"  />
   <img width="5" />
