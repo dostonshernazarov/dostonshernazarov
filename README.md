@@ -9,29 +9,31 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=golang" height="38" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=golang" height="38" alt="golang logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="38" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="pytohn logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgres logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="mongo logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="38" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="38" alt="kafka logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=redis" height="38" alt="adobepremierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="38" alt="redis logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="38" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="38" alt="rabbitmq logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="38" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="38" alt="kubernetes logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="38" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="38" alt="tensorflow logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="38" alt="pytorch logo"  />
 </div>
 <hr>
 
