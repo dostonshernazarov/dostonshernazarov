@@ -21,17 +21,13 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="csharp logo"  />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="38" alt="codeigniter logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="38" alt="laravel logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=kafka" height="38" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="adobepremierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="38" alt="adobepremierepro logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="38" alt="adobephotoshop logo"  />
 </div>
 <hr>
 
