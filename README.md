@@ -35,6 +35,12 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="38" alt="pytorch logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=java" height="38" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=aws" height="38" alt="javascript logo"  />
+  <img width="5" /><img src="https://skillicons.dev/icons?i=ruby" height="38" alt="javascript logo"  />
+  <img width="5" /><img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
+  <img width="5" />
 </div>
 <hr>
 
