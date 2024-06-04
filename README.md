@@ -8,7 +8,7 @@
   I am a software backend, data science, and machine learning developer with a passion for building intelligent systems.  I enjoy working on the complex challenges at the intersection of code and data analysis.
   <p align="left">
     <a href="https://www.instagram.com/doston_shernazarov_/" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/harturalcantara/"/> </a>
-    <a href="https://www.linkedin.com/in/doston-shernazarov" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harturalcantara" /> </a>
+    <a href="https://www.linkedin.com/in/doston-shernazarov" alt="Linkedin" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harturalcantara" /> </a>
     <a href = "mailto:dostonshernazarov2001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   </p>
 </p>
