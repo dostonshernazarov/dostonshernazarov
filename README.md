@@ -1,8 +1,8 @@
 <h1 align="center"> Hello there! </h1>
 
-<img src="./images/developer.svg" align="right" width="350" height="320" />
+<img src="./images/developer.jpg" align="right" width="350" height="320" />
 
-### About me 
+### About me
 
 <p align="justify">
   I am a software backend, data science, and machine learning developer with a passion for building intelligent systems.  I enjoy working on the complex challenges at the intersection of code and data analysis.
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=redis" height="38" alt="redis logo"  />
-  <img width="5" /> 
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="38" alt="rabbitmq logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="38" alt="kubernetes logo"  />
@@ -57,7 +57,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dostonshernazarov&theme=cobalt2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dostonshernazarov&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dostonshernazarov&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dostonshernazarov&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dostonshernazarov&theme=cobalt2&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dostonshernazarov&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dostonshernazarov&theme=cobalt2&utcOffset=8)
 
 <div>
   <img align="right" src="https://komarev.com/ghpvc/?username=dostonshernazarov&style=for-the-badge" alt="dostonshernazarov" />
