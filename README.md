@@ -1,3 +1,17 @@
+<h1 align="center"> Hello there! </h1>
+
+<img src="./images/developer.svg" align="right" width="350" height="320" />
+
+### About me 
+
+<p align="justify">
+  I am a software backend, data science, and machine learning developer with a passion for building intelligent systems.  I enjoy working on the complex challenges at the intersection of code and data analysis.
+  <p align="left">
+    <a href="https://www.instagram.com/doston_shernazarov_/" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/harturalcantara/"/> </a>
+    <a href="https://www.linkedin.com/in/doston-shernazarov" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harturalcantara" /> </a>
+  </p>
+</p>
+
 <h6 align="center">Technologies I know or am studying:</h6>
 
 ###
