@@ -1,7 +1,5 @@
 <h1 align="center"> Hello there! </h1>
 
-<img src="./images/developer.jpg" align="right" width="350" height="320" />
-
 ### About me
 
 <p align="justify">
