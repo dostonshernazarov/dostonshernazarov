@@ -38,7 +38,7 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="38" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="38" alt="redis logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="38" alt="rabbitmq logo"  />
   <img width="5" />
