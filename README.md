@@ -34,7 +34,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="mongo logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="38" alt="kafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="38" alt="kafka logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
   <img width="5" />
