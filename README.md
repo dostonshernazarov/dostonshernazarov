@@ -13,8 +13,8 @@
   <h4>  * Go backend developer</h4>
   <h4>  * Data science and Machine learning developer</h4>
   
-  <a  href="https://drive.google.com/file/d/1BTh21HAzRZGFf-kZAtFdQpKGuArgK1o9/view?usp=sharing"  alt="My Resume" style="cursor: pointer;">  
-    <h3>My Resume</h3>
+  <a  href="https://drive.google.com/file/d/1BTh21HAzRZGFf-kZAtFdQpKGuArgK1o9/view?usp=sharing"  alt="My Resume">  
+    <img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white" />
      </a>
    
 
