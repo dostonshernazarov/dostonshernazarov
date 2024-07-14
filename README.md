@@ -12,6 +12,14 @@
   <h3>Open to work:</h3>
   <h4>  * Go backend developer</h4>
   <h4>  * Data science and Machine learning developer</h4>
+  <div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1BTh21HAzRZGFf-kZAtFdQpKGuArgK1o9/view?usp=sharing" class="">
+
+      <h3>My Resume</h3>
+      <img  style="width:50px;" src="./images//resume.png" alt="">
+     </a>
+   </div>
+
 </p>
 
 <h6 align="center">Technologies I know or am studying:</h6>
