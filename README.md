@@ -10,9 +10,9 @@
     <a href = "mailto:dostonshernazarov2001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   </p>
     <h3>Open to work:</h3>
-  <p align="center">
-    <a>  * Go backend developer</a>
-    <a>  * Data science and Machine learning developer</a>
+  <p align="left">
+    <a>  * Go backend developer </a> <br/>
+    <a>  * Data science and Machine learning developer </a>
   </p>
   
   <h3>My Resume👇🏻</h3>
