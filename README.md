@@ -3,7 +3,7 @@
 ### About me
 
 <p align="justify">
-  <h3 style="color: blue; line-height: 32px; ">I am a Go backend, data science, and machine learning developer passionate about building intelligent systems. I enjoy tackling complex challenges at the intersection of code and data analysis.</h3>
+  <pre">I am a Go backend, data science, and machine learning developer passionate about building intelligent systems. I enjoy tackling complex challenges at the intersection of code and data analysis.</pre>
   <p align="left">
     <a href="https://www.instagram.com/doston_shernazarov_/" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/doston_shernazarov_/"/> </a>
     <a href="https://www.linkedin.com/in/doston-shernazarov" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dostonshernazarov" /> </a>
@@ -11,8 +11,8 @@
   </p>
     <h3>Open to work:</h3>
   <p align="left">
-    <pre>    * Go backend developer </pre> <br/>
-    <pre>  * Data science and Machine learning developer </pre>
+    <pre> * Go backend developer </pre> <br/>
+    <pre> * Data science and Machine learning developer </pre>
   </p>
   
   <h3>My Resume👇🏻</h3>
