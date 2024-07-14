@@ -11,7 +11,7 @@
   </p>
     <h3>Open to work:</h3>
   <p align="left">
-    <a>  * Go backend developer </a> <br/>
+    <pre>    * Go backend developer </pre> <br/>
     <a>  * Data science and Machine learning developer </a>
   </p>
   
