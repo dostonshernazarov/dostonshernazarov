@@ -12,7 +12,7 @@
     <h3>Open to work:</h3>
   <p align="left">
     <pre>    * Go backend developer </pre> <br/>
-    <a>  * Data science and Machine learning developer </a>
+    <pre>  * Data science and Machine learning developer </pre>
   </p>
   
   <h3>My Resume👇🏻</h3>
