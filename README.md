@@ -20,13 +20,9 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=golang" height="38" alt="golang logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="38" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="38" alt="pytohn logo"  />
   <img width="5" />
