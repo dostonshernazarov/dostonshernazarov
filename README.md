@@ -9,6 +9,9 @@
     <a href="https://www.linkedin.com/in/doston-shernazarov" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dostonshernazarov" /> </a>
     <a href = "mailto:dostonshernazarov2001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   </p>
+  <h3>Open to work:</h3>
+  <h4>Go back end developer</h4>
+  <h4>Data science and Machine learning developer</h4>
 </p>
 
 <h6 align="center">Technologies I know or am studying:</h6>
