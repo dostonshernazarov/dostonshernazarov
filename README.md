@@ -13,9 +13,7 @@
   <h4>  * Go backend developer</h4>
   <h4>  * Data science and Machine learning developer</h4>
   
-  <a href="https://drive.google.com/file/d/1BTh21HAzRZGFf-kZAtFdQpKGuArgK1o9/view?usp=sharing" class="">
-      <h3>My Resume</h3>
-      <img  style="width:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fresume-icon&psig=AOvVaw2g3-m0dsJxyTwJL3P9uc3V&ust=1721036399152000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiiia2epocDFQAAAAAdAAAAABAE" alt="">
+  <a href="https://drive.google.com/file/d/1BTh21HAzRZGFf-kZAtFdQpKGuArgK1o9/view?usp=sharing"  alt="My Resume" class="">  
      </a>
    
 
