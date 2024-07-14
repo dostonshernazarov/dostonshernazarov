@@ -56,7 +56,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dostonshernazarov&theme=cobalt2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dostonshernazarov&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dostonshernazarov&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dostonshernazarov&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dostonshernazarov&theme=cobalt2&utcOffset=8)
+
 
 <div>
   <img align="right" src="https://komarev.com/ghpvc/?username=dostonshernazarov&style=for-the-badge" alt="dostonshernazarov" />
