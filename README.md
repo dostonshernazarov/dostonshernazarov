@@ -11,18 +11,7 @@
     <a href = "mailto:dostonshernazarov2001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
     <a href="https://t.me/dostonshernazarov"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
   </p>
-  // <h3>Open to work:</h3>
-  #<p align="left">
-   # <pre>  Go backend Engineer</pre>
-    #<pre>  Data science and Machine learning developer </pre>
-  #</p>
   
- # <h3>My Resume👇🏻</h3>
-  
-  #<a  href="https://drive.google.com/file/d/1BTh21HAzRZGFf-kZAtFdQpKGuArgK1o9/view?usp=sharing"  alt="My Resume">  
-   # <img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white" />
-    # </a>
-   
 
 </p>
 
