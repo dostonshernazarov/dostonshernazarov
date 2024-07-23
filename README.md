@@ -19,7 +19,7 @@
 
 </p>
 
-<h6 align="center">Technologies I know or am studying:</h6>
+<h6 align="right">Technologies I know or am studying:</h6>
 
 ###
 
